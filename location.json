@@ -1,0 +1,50 @@
+{
+  "locations": [
+    {
+      "name": "Turkey",
+      "slug": "",
+      "description": "",
+      "meta": [
+        {"image_id" :  45},
+        {"_icon" :  ""}
+      ],
+      "order": 0,
+      "child": [
+        {"name": "Child level 1", "order": 1 },
+        {
+			"name" : "Port Chester",
+			"order": 2,
+			"child": [
+				{"name": "Child level 2 1", "order": 50 },
+				{"name": "Child level 2 2", "order": 51 }
+			]
+		},
+        {"name" : "Mineola", "order": 3},
+        {"name" : "Mount Vernon", "order": 4},
+        {"name" : "Hempstead", "order": 5},
+        {"name" : "Lynbrook", "order": 6},
+        {"name" : "Yonkers", "order": 7},
+        {"name" : "Franklin Square", "order": 8},
+        {"name" : "Newburgh", "order": 9},
+        {"name" : "Buffalo", "order": 10},
+        {"name" : "Long Beach", "order": 11},
+        {"name" : "Ithaca", "order": 12},
+        {"name" : "New Rochelle", "order": 13},
+        {"name" : "Freeport", "order": 14},
+        {"name" : "Rochester", "order": 15},
+        {"name" : "Albany", "order": 16},
+        {"name" : "Valley Stream", "order": 17},
+        {"name" : "Poughkeepsie", "order": 18},
+        {"name" : "Baldwin", "order": 19},
+        {"name" : "West Hempstead", "order": 20},
+        {"name" : "Schenectady", "order": 21},
+        {"name" : "White Plains", "order": 22},
+        {"name" : "Uniondale", "order": 23},
+        {"name" : "North Valley Stream", "order": 24},
+        {"name" : "Ossining", "order": 25}
+      ]
+    }
+  ],
+  "listings":[
+  ]
+}
